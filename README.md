@@ -9,7 +9,7 @@
  ![](screenshots/admin login.PNG)
  
  NEW VOTER: in this page adim only add the new voter details 
- ![](screenshots/screenshot(21).PNG)
+ ![](screenshots/screenshot (21).PNG)
  
  VOTERS DATABASE: all voters data base stored here
 ![](screenshots/user data.PNG)
